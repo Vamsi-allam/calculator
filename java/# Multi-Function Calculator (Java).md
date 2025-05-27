@@ -44,16 +44,6 @@ javac Calculator.java
 java Calculator
 ```
 
-4. Create an executable JAR:
-```bash
-# Create a manifest file
-echo "Main-Class: Calculator" > manifest.txt
-# Create the JAR
-jar cfm Calculator.jar manifest.txt Calculator.class Calculator$*.class
-# Run the JAR
-java -jar Calculator.jar
-```
-
 ## Usage
 
 ### Standard Calculator
