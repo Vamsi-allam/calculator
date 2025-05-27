@@ -2,8 +2,8 @@
 
 A feature-rich calculator application built using Python and Tkinter that provides multiple calculation utilities in a simple, tabbed interface with full keyboard input support.
 
-![Calculator Screenshot](screenshots/python_calculator.png)
-*Add a screenshot of your application here*
+![image](https://github.com/user-attachments/assets/4afac76a-e97a-427c-867c-31d2a1c3a17c)
+
 
 ## Features
 
