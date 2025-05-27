@@ -2,7 +2,7 @@
 
 A comprehensive calculator application built with Java and Swing that provides multiple calculation utilities in a clean, tabbed interface with both mouse and keyboard input support.
 
-![image](https://github.com/user-attachments/assets/8c6edd61-4f6a-4aeb-8766-ade3a137e826)
+![image](https://github.com/user-attachments/assets/adaa210e-b229-49ae-80ba-bea07f3f8fa8)
 
 
 ## Features
@@ -42,6 +42,16 @@ javac Calculator.java
 
 ```bash
 java Calculator
+```
+
+4. Create an executable JAR:
+```bash
+# Create a manifest file
+echo "Main-Class: Calculator" > manifest.txt
+# Create the JAR
+jar cfm Calculator.jar manifest.txt Calculator.class Calculator$*.class
+# Run the JAR
+java -jar Calculator.jar
 ```
 
 ## Usage
