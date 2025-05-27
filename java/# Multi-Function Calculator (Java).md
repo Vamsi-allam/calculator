@@ -2,8 +2,8 @@
 
 A comprehensive calculator application built with Java and Swing that provides multiple calculation utilities in a clean, tabbed interface with both mouse and keyboard input support.
 
-![Calculator Screenshot](screenshots/java_calculator.png)
-*Add a screenshot of your application here*
+![image](https://github.com/user-attachments/assets/8c6edd61-4f6a-4aeb-8766-ade3a137e826)
+
 
 ## Features
 
